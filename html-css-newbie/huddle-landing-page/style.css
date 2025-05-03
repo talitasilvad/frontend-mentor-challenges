@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: #674baf;
+    background-image: url(assets/images/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header img{
+    padding: 45px;
+    margin: 14px 0 0 46px;
+    width: 17rem;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-img img{
+    padding: 45px;
+    margin: 0 0 0 46px;
+}
+
