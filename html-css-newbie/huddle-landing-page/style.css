@@ -16,7 +16,7 @@ body{
 
 header img{
     padding: 45px;
-    margin: 14px 0 0 0;
+    margin: .2rem 0 0 0;
     width: 17rem;
 }
 
@@ -25,12 +25,12 @@ main{
     align-items: center;
     justify-content: space-between;
     max-width: 1440px;
-    gap: 3rem;
+    gap: 48px;
 }
 
 .hero-img img{
-    margin: .5rem 0 0 3rem;
-    width: 39rem;
+    margin: 12px 0 0 48px;
+    width: 624px;
     
 }
 
@@ -50,7 +50,8 @@ main{
     color: white;
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
-    margin: 1rem 9rem 0 0;
+    margin: 16px 128px 0 0;
+    text-align: justify;
 }
 
 .text-content button{
@@ -66,7 +67,8 @@ main{
 .social-media{
     display: flex;
     justify-content: flex-end;
-    gap: 8px;
+    gap: .2rem;
+    margin-right: 48px;
 }
 
 .social-media a{
