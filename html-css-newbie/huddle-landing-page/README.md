@@ -18,7 +18,7 @@ Esta é a solução para o desafio [Huddle landing page with single introductory
 
 ## Imagens do desafio finalizado
 
-![Mobile](assets/images/screenshot.png)
+![Mobile](assets/images/mobile-screenshot.png)
 
-![Desktop](assets/images/screenshot2.png)
+![Desktop](assets/images/desktop-screenshot.png)
 

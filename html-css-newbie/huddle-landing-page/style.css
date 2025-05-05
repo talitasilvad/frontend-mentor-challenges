@@ -16,7 +16,7 @@ body{
 
 header img{
     padding: 45px;
-    margin: .2rem 0 0 0;
+    margin: 3px 0 0 0;
     width: 17rem;
 }
 
@@ -100,11 +100,13 @@ main{
 @media (max-width: 768px){
     body{
         background-image: url(assets/images/bg-mobile.svg);
-        padding: 18px;
+        padding: 34px;
     }
 
-    header{
-        text-align: center;
+    header img{
+        padding: 0 45px 45px 0;
+        margin: 3px 0 0 0;
+        width: 197px;
     }
 
     main{
@@ -124,7 +126,7 @@ main{
 
     .text-content h1{
         text-align: center;
-        margin-bottom: 4px;
+        margin-bottom: 7px;
         font-size: 28px;
         width: auto;
     }
