@@ -18,7 +18,7 @@ Esta é a solução para o desafio [Huddle landing page with single introductory
 
 ## Imagens do desafio finalizado
 
-![Mobile](assets/images/mobile-screenshot.png)
+![Mobile](assets/images/mobileOneplus-Nord-2-127.0.0.1.png)
 
 ![Desktop](assets/images/desktop-screenshot.png)
 
