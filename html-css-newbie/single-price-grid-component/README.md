@@ -20,4 +20,4 @@ Esta é a solução para o desafio [Single price grid component challenge on Fro
 
 ![Mobile](assets/images/mobileOneplus-Nord-2-127.0.0.1%20(1).png)
 
-![Desktop](assets/images/desktop-screenshot.png)
+![Desktop](assets/images/desktopImg.png)
